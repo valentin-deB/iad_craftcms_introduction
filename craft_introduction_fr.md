@@ -12,7 +12,7 @@ Comparé à d'autres produits, Craft est axé sur l'essentiel: définir et gére
 
 Cette flexibilité est présente jusque dans [le pricing](https://craftcms.com/pricing) du produit lui même.
 
-- La version "Solo" de Craft est gratuite et vous permet de profiter de toutes les fonctionnalités de Craft hormis la gestion utilisateurs. The seul compte utilisateur disponible est un compte admin.
+- La version "Solo" de Craft est gratuite et vous permet de profiter de toutes les fonctionnalités de Craft hormis la gestion utilisateurs. Le seul compte utilisateur disponible est un compte admin.
 - Une version "Pro" à 299 USD vous permet de disposer de toutes les fonctionnalités de Craft, y compris la gestion d'utilisateurs, une API GraphQL et la capacité de modifier le branding de l'outil.
 
 #### Licences
@@ -653,7 +653,7 @@ Twig est capable d'interpréter toutes sortes d'[opérations mathématiques](htt
 
 ### Contrôle du whitespace
 
-Twig vous permet de contrôler la façon dont votre code est affiché, [particulièrement au niveau du whitespace](http://twig.sensiolabs.org/doc/templates.html#whitespace-control).
+Twig vous permet de contrôler la façon dont votre code est affiché, [particulièrement au niveau du whitespace](https://twig.symfony.com/doc/3.x/templates.html#whitespace-control).
 
 ### Template inheritance, includes et macros: stay DRY
 
