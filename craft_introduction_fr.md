@@ -39,7 +39,7 @@ Les principaux atouts de Craft sont à mon sens:
 
 - Une flexibilité dans la définition de votre data structure rarement égalée. Les 16 field types disponibles par défaut permettent une approche extrêmement modulaire.
 - A propos de champs et de modularité, Matrix est un atout de Craft en ce qui concerne la flexibilité de votre data structure tout en préservant un contrôle total sur le code front-end généré.
-- [L'utilisation de Twig comme language de templating](http://twig.sensiolabs.org/doc/templates.html): cela induit un temps d'apprentissage mais les gains en termes de puissance, de modularité et de flexibilités sont importants.
+- [L'utilisation de Twig comme language de templating](https://twig.symfony.com/doc/3.x/templates.html): cela induit un temps d'apprentissage mais les gains en termes de puissance, de modularité et de flexibilités sont importants.
 - Une quantité impressionnante de fonctionnalités qui rendront la vie de vos clients plus facile: live preview, control panel responsive, one click updates, etc.
 - Un découplage important entre votre structure de dossiers et de fichiers et la manière dont sont construites les URL. La structure de vos URL est donc extrêmement flexible.
 - Une solution intégrée et complète pour les sites multilingues.
